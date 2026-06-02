@@ -1,0 +1,8 @@
+requests
+pandas
+python-dotenv
+streamlit
+tqdm
+pypdf
+beautifulsoup4
+pytest
